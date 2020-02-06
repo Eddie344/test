@@ -14,4 +14,5 @@ The application consists of three pages:
 - Vue.js (frontend part)
 
 ### To do list
+- Empty table inscription
 - Pagination
